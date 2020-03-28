@@ -81,7 +81,7 @@ $result2 = mysqli_query($condb, $query2);
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="./assets/img/p1.jpg" alt="New York" width="1200" height="700">
+                <img src="./assets/img/pic.jpg" alt="New York" width="1200" height="700">
                 <div class="carousel-caption">
                     <h3>มัสยิด</h3>
                     <p>“มัสยิด” หมายความว่า สถานที่ซึ่งมุสลิมใช้ประกอบศาสนกิจโดยจะต้องมีละหมาดวันศุกร์เป็นเป็นปกติ
@@ -90,7 +90,7 @@ $result2 = mysqli_query($condb, $query2);
             </div>
 
             <div class="item">
-                <img src="./assets/img/p2.jpg" alt="Chicago" width="1200" height="700">
+                <img src="./assets/img/pic.jpg" alt="Chicago" width="1200" height="700">
                 <div class="carousel-caption">
                     <h3>สัปปุรุษ</h3>
                     <p>“สัปปุรุษประจำมัสยิด” หมายความว่า
@@ -101,7 +101,7 @@ $result2 = mysqli_query($condb, $query2);
             </div>
 
             <div class="item">
-                <img src="./assets/img/p3.jpg" alt="Los Angeles" width="1200" height="700">
+                <img src="./assets/img/pic.jpg" alt="Los Angeles" width="1200" height="700">
                 <div class="carousel-caption">
                     <h3>กองทุนการสงเคราะห์ผู้เสียชีวิต</h3>
                     <p>“กองทุนการสงเคราะห์ผู้เสียชีวิตประจำมัสยิด” ซึ่งเป็นกองทุนที่มีการทำงานแยกส่วนออกจากทะเบียนประวัติสัปปุรุษ แต่มีความเกี่ยวพันกันอย่างใกล้ชิด คือ สมาชิกของกองทุนก็คือสมาชิกของสัปปุรุษ กองทุนนี้ถูกตั้งขึ้นโดยมีวัตถุประสงค์เพื่อช่วยเหลือสมาชิกสัปปุรุษที่เสียชีวิต ซึ่งมีฐานะยากจน ที่ไม่มีค่าใช้จ่ายในการทำศพ เพราะเวลาจัดงานต้องมีการให้ค่าละหมาดเป็นสินน้ำใจแก่คนที่มาร่วมงาน </p>
