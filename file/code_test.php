@@ -3,7 +3,7 @@ require_once __DIR__ . '../../vendor/autoload.php';
 ob_start();
 session_start(); //เรื่มต้น session
  
-$db_name = "darussalam_mosque_db"; //ชื่อฐานข้อมูล
+$db_name = "mosque_project"; //ชื่อฐานข้อมูล
 $db_host = "localhost";
 $db_user = "root"; //ชื่อuser
 $db_pass = ""; //ชื่อรหัสผ่าน

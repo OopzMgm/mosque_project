@@ -4,7 +4,7 @@ require_once __DIR__ . '../../vendor/autoload.php';
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "darussalam_mosque_db";
+$dbname = "mosque_project";
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
 mysqli_set_charset($conn, "utf8");
